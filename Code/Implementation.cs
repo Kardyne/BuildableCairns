@@ -1,6 +1,6 @@
 ﻿using MelonLoader;
 
-namespace TLDModTemplate
+namespace BuildableCairns
 {
     internal class Implementation : MelonMod
     {

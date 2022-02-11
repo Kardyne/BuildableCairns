@@ -1,6 +1,6 @@
 ﻿using ModSettings;
 
-namespace TLDModTemplate
+namespace BuildableCairns
 {
     internal class Settings : JsonModSettings
     {
